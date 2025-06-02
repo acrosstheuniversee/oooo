@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      font-family: sans-serif;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 2rem;
+      max-width: 700px;
+      line-height: 1.6;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p>[Verse 1]<br>
+    I'll be your mirror<br>
+    Reflect what you are, in case you don't know<br>
+    I'll be the wind, the rain, and the sunset<br>
+    The light on your door to show that you're home</p>
+
+    <p>[Chorus]<br>
+    When you think the night has seen your mind<br>
+    That inside, you're twisted and unkind<br>
+    Let me stand to show that you are blind<br>
+    Please put down your hands<br>
+    'Cause I see you</p>
+
+    <p>[Verse 2]<br>
+    I find it hard to believe you don't know<br>
+    The beauty you are<br>
+    But if you don't, let me be your eyes<br>
+    A hand to your darkness so you won't be afraid</p>
+
+    <p>[Chorus]<br>
+    When you think the night has seen your mind<br>
+    That inside, you're twisted and unkind<br>
+    Let me stand to show that you are blind<br>
+    Please put down your hands<br>
+    'Cause I see you</p>
+
+    <p>[Outro]<br>
+    I'll be your mirror (Reflect what you are)<br>
+    I'll be your mirror (Reflect what you are)<br>
+    I'll be your mirror (Reflect what you are)<br>
+    I'll be your mirror (Reflect what you are)</p>
+  </div>
+</body>
+</html>
